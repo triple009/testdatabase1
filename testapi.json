@@ -1,1 +1,14 @@
-[ { "title": "Htet Min Paing is very power full boy so that you need to love him", "description": "Htet Min Paing" }, { "title": "Southpall", "description": "Min Min Paing" }, { "title": "GitHuh Api", "description": "This is description" }, { "title": "GitHuh Api", "description": "This is description" }, { "title": "GitHuh Api", "description": "This is description" } ]
+[
+  {
+    "title": "Htet Min Paing",
+    "description": "He is a Boy"
+  },
+  {
+    "title": "Min Min Paing",
+    "description": "He is a very powerfull boy"
+  },
+  {
+    "title": "Thi da",
+    "description": "She is a Girl"
+  }
+ ]
